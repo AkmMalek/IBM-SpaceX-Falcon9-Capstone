@@ -1,0 +1,24 @@
+lab,metric,value,unit,source
+Web scraping,Historical launch records,121,records,"Web Scraping notebook, cell 46"
+Web scraping,Export columns,11,columns,"Web Scraping notebook, cell 50"
+SQL,Historical SQL records,101,rows,"SQL notebook, cell 10"
+SQL,NASA CRS payload sum,45596,kg,"SQL notebook, cell 19"
+SQL,F9 v1.1 payload average,2928.4,kg,"SQL notebook, cell 21"
+Data wrangling,ML sample,90,flights,Data Wrangling notebook; site counts
+Data wrangling,First stage landing success,60,flights,"Data Wrangling notebook, Class.mean() = 2/3"
+Data wrangling,LandingPad missing,28.888889,%,"Data Wrangling notebook, cell 21"
+Dash,Launch records,56,flights,"Dash notebook, cell 6"
+Dash,KSC successful landings,10,landings,"Dash notebook, cell 25"
+Dash,KSC success rate,76.92,%,"Dash notebook, cell 25"
+Dash,Payload 3k-4k success rate,72.73,%,"Dash notebook, cell 29, n=11"
+Dash,Payload 6k-7k success rate,0,%,"Dash notebook, cell 29, n=4"
+Dash,B5 success rate,100,%,"Dash notebook, cell 33, n=1"
+Machine learning,Training/test sample split,18,test flights,"ML notebook, cell 35"
+Machine learning,All 4 held-out test accuracies,83.333333,%,"ML notebook, cell 79"
+Machine learning,Decision tree CV score,87.678571,%,"ML notebook, cell 61"
+Machine learning,True positives,12,cases,ML confusion matrices
+Machine learning,True negatives,3,cases,ML confusion matrices
+Machine learning,False positives,3,cases,ML confusion matrices
+Machine learning,False negatives,0,cases,ML confusion matrices
+Folium,Worked coastline distance,1.01,km,"Folium notebook, cell 59: manually selected point"
+Dash,Local Dash application started in Safari,Confirmed on 2026-10-25,execution evidence,Dash notebook executed final cell + two Safari screenshots
